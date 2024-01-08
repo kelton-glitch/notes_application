@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:notes_application/components/note_settings.dart';
+import 'package:popover/popover.dart';
 
 class NoteTile extends StatelessWidget {
   final String text;
